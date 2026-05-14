@@ -176,7 +176,7 @@ embeddings = model.encode(error_lines)
 
 ---
 
-## 核心模块说明
+## 核心模块说明（分步识别）
 
 ### 1. PreScreener（预筛选器）
 - 扫描项目中的 C/C++ 源文件
